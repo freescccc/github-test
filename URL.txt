@@ -1,0 +1,6 @@
+https://github.com/freescccc/github-test
+
+
+●Github的使用
+◆1、登录Github官网https://github.com/ ,申请Github账户，并创建名为github-test的Repository
+freescccc，2847315340@qq.com，free@2017
